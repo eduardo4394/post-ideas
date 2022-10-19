@@ -55,7 +55,7 @@ export default function Details() {
   }, [router.isReady]);
 
   return (
-    <div>
+    <div className="mt-8">
       <Message {...routeData}></Message>
       <div className="my-4">
         <div className="flex">
