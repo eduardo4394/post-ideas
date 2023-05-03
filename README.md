@@ -12,4 +12,4 @@ Front: NextJs
 
 
 Project deployed in vercel. 
-link: [https://post-ideas.vercel.app/](https://post-ideas.vercel.app/)
+link: https://post-ideas.vercel.app/
